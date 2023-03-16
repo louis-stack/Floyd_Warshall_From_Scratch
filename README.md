@@ -1,2 +1,5 @@
 # Floyd_Warshall_From_Scratch
-Floyd Warshall algorithm application
+
+Complete python guide of a floyb warshall algorithm from scratch.
+
+By Louis FERRAND
